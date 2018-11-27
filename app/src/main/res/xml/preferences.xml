@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference android:key="pref_file" android:title="The name of the file to store art"
+    />
+
+    <EditTextPreference android:key="pref_file"
+                        android:title="The file name to save the art"
+    />
+
+</PreferenceScreen>
